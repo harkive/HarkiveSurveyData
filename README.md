@@ -2,7 +2,7 @@
 
 This repository contains sample data gathered via the Harkive Music Listening Survey and R Scripts for basic analysis and visualisation.
 
-The sample data set contains 100 anonymised responses to the Harkive Music Listening Survey. Alongside responses to questions regarding age and gender, there are responses to 80 further Likert Scale questions about music listening. 
+The sample data set contains 100 anonymised responses to the Harkive Music Listening Survey. Alongside responses to questions regarding age and gender, there are responses to 86 further Likert questions about music listening. In the respoitory I have provided a document that lists/explains the questions contained within the survey. 
 
 The original survey can be found at: http://www.harkive.org/h16-survey
 
